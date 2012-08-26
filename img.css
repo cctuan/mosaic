@@ -1,0 +1,14 @@
+#drag{
+  border:2px dotted grey;
+  text-align:center; 
+}
+.thumImg{
+}
+.dragInFile{
+  height:200px;
+  width:100%;    
+  display:table;
+}
+.dragInFile h3{
+  display:table-row;
+}
